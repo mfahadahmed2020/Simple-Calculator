@@ -1,19 +1,20 @@
 {
-  "name": "target316_simple_calculator",
+  "name": "number-guessing-game-project",
   "version": "1.0.0",
-  "description": "A Simple Calculator Eith Typescript and inquirer",
+  "description": "",
   "main": "index.js",
-  "bin" : "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "M Fahad Ahmed",
-  "license": "MIT",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.30"
+  },
   "dependencies": {
     "inquirer": "^9.2.16"
-  },
-  "devDependencies": {
-    "@types/inquirer": "^9.0.7"
   }
 }
